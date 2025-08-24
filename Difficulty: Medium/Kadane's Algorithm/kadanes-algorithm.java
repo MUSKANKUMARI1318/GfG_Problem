@@ -1,6 +1,6 @@
 class Solution {
     int maxSubarraySum(int arr[]) {
-        int n = arr.length;   // array size yahi se lo
+        int n = arr.length;   
         int currSum = arr[0];
         int maxSum = arr[0];
 
